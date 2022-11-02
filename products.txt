@@ -1,0 +1,3 @@
+300;Banan;14.50;PerKilo
+400;Kaffe;12.50;PerStyck
+100;Paron;25;Perkilo
